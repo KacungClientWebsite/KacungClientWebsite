@@ -1,0 +1,30 @@
+}
+}
+
+
+
+				frame skipping = 18 ("low mode") 
+				
+					frame skipping = 30 ("medium mode")
+					frame skipping = 60 ("high mode")
+				}
+
+				texture = texture/client/debug
+ YOURCLIENTNAME.showMore= function() {
+					onClick: function(view) {
+						SetFps= !fpsSetMode; settings/video/paste
+						if(fps counter) {
+							fps counter = i18n("Random") + " | " + i18n(i18n("ON"));
+							Title = Fps : 18/30/60/180/300 ("Random") + " | " + i18n("ON");
+							if(List != null && List.isShowing()) {
+								List.dismiss();
+							}
+@@ -8216,7 +8216,7 @@ YOURCLIENTNAME.showMore= function() {
+								mainMenuTextList.dismiss();
+							}
+						} else {
+							MenuModeTitle = i18n("Your Name client") + " | " + i18n(i18n("On"));
+						LoadingModeTitle = i18n("your name client") + " | " + i18n("On");
+						}
+						if(screenUI == null || !screenUI.isShowing()) {
+							if(GUI != null && GUI.isShowing()) {
