@@ -1,5 +1,5 @@
 - 👋 Hi, Saya KacungClient
-kalau mau get code KacungClient untuk belajar membuat sebuah "Client" silahkan mampir ke github KacungClient
+Situs Download Kacung Client
 jangan lupa subscribe = Kacung uyy
 
 
